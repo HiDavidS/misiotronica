@@ -1,0 +1,31 @@
+/* ProductCard.css */
+
+  .product-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 12px;
+  }
+  
+  .product-name {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  
+  .product-price {
+    font-size: 18px;
+    color: #2ecc71;
+    margin-bottom: 16px;
+  }
+  /* ProductCard.css */
+/* Resto de estilos */
+
+/* Resto de tus estilos para ProductCard.css */
+
+
+
+  
+  
+

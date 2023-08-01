@@ -1,0 +1,21 @@
+/* NotFound.css */
+
+  
+  .not-found-container {
+    background-image: url('/src/images/404No.jfif'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la URL o ruta de tu imagen */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+  }
+  
+  
+  
+  
