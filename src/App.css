@@ -1,4 +1,4 @@
-/* En el archivo App.css */
+
 @font-face {
   font-family: 'Nunito Extra Light';
   src: url('../src/fonts/Nunito-ExtraLight.ttf') format('tff');
@@ -15,15 +15,15 @@
 }
 
 body, ul {
-  font-family: 'Nunito Extra Light', sans-serif; /* Utiliza Nunito Extra Light como fuente predeterminada */
+  font-family: 'Nunito Extra Light', sans-serif; 
 }
 
 h1, h2 {
-  font-family: 'Nunito Bold', sans-serif; /* Utiliza Nunito Bold para los títulos */
+  font-family: 'Nunito Bold', sans-serif; 
 }
 
 p {
-  font-family: 'Playfair Display Regular', serif; /* Utiliza Playfair Display Regular para los párrafos */
+  font-family: 'Playfair Display Regular', serif; 
 }
 
 * {
@@ -34,7 +34,7 @@ p {
 body {
   margin: 0;
   padding: 0;
-  /*font-family: Arial, sans-serif;*/
+  
 }
 
 .App {
@@ -110,7 +110,7 @@ body {
 
 
 
-/* Estilos para pantallas más pequeñas (por ejemplo, dispositivos móviles) */
+/* Estilos para pantallas más pequeñas  */
 @media (max-width: 768px) {
   .navbar {
     flex-direction: column;
@@ -137,7 +137,7 @@ body {
   }
 }
 
-/* App.css */
+
 /* Estilos para pantallas pequeñas (hasta 768px) */
 @media (max-width: 768px) {
   .hamburger-menu {

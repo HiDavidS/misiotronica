@@ -1,11 +1,11 @@
-/* SearchBar.css */
+
 
 .search-bar-container {
     display: flex;
     align-items: center;
     background-color: #f2f2f2;
     border-radius: 4px;
-    overflow: hidden; /* Ocultar el desbordamiento del borde inferior */
+    overflow: hidden; 
   }
   
   .search-icon {
@@ -21,15 +21,15 @@
     font-size: 16px;
     padding: 8px 16px;
     flex: 1;
-    transition: border-bottom 0.3s ease; /* Transición animada */
-    border-bottom: 2px solid transparent; /* Borde inferior inicial transparente */
+    transition: border-bottom 0.3s ease; 
+    border-bottom: 2px solid transparent; 
   }
   
   .search-input::placeholder {
-    color: #999; /* Color del texto de marcador de posición */
+    color: #999; 
   }
   
   .search-input:focus {
-    border-bottom: 2px solid #00ADB5; /* Borde inferior al enfocar */
+    border-bottom: 2px solid #00ADB5; 
   }
   

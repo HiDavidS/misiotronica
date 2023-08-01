@@ -1,8 +1,8 @@
-/* NotFound.css */
+
 
   
   .not-found-container {
-    background-image: url('/src/images/404No.jfif'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la URL o ruta de tu imagen */
+    background-image: url('/src/images/404No.jfif'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

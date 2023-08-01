@@ -12,7 +12,7 @@ import colors from '../colors';
 
 const CatalogoProductos = () => {
   const allProductos = [
-    // Definición de productos...
+    // Definición de productos.
     {
       name: 'Bateria De Gel 12v 7ah Con Certificacion Ul',
       price: 8.999,
@@ -59,7 +59,7 @@ const CatalogoProductos = () => {
     setFilteredProducts(filtered);
   };
 
-  // Agrupar los productos filtrados en grupos de tres elementos cada uno
+  // Agrupa los productos filtrados en grupos de tres elementos cada uno
   const groupedProducts = [];
   let currentGroup = [];
   filteredProducts.forEach((product, index) => {
@@ -73,7 +73,7 @@ const CatalogoProductos = () => {
   return (
     <div className="productos-container" style={{ backgroundColor: colors.neutral, color: colors.dark }}>
       <h2 className='productos-title'>Productos disponibles:</h2>
-      {/* Barra de búsqueda */}
+      {}
       <SearchBar searchTerm={searchTerm} onSearchChange={handleSearchChange} />
 
       <div className="productos-list">

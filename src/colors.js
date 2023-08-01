@@ -1,4 +1,4 @@
-// colors.js
+
 const colors = {
     primary: '#222831',
     secondary: '#393E46',

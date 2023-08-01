@@ -1,5 +1,5 @@
 
-/* CatalogoProductos.css */
+
 
 .productos-container {
   padding: 20px;
@@ -49,9 +49,9 @@
   margin-bottom: 16px;
 }
 
-/* En el archivo CatalogoProductos.css */
+
 .productos-title {
-  font-family: 'Nunito Bold', sans-serif; /* Utiliza Nunito Bold para el título */
+  font-family: 'Nunito Bold', sans-serif; 
   font-size: 24px;
   color: #333;
   margin-bottom: 20px;
