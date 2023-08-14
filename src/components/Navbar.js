@@ -21,6 +21,9 @@ const Navbar = () => {
         <li>
           <Link to="/sobre-nosotros" style={{ color: colors.complement }}>Sobre Nosotros</Link>
         </li>
+        <li>
+            <Link to="/contacto" style={{ color: colors.complement }}>Contacto</Link>
+          </li>
       </ul>
     </nav>
   );

@@ -34,6 +34,8 @@
     color: #fff;
     height: 100%;
     padding: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   }
   
   /* Estilos para el título principal */
@@ -64,6 +66,7 @@
     color: #fff;
     text-decoration: none;
     transition: color 0.3s ease;
+    text-shadow: 2px 2px 3px rgba(0, 173, 181, 0.7);
   }
   
   /* Estilos para cambiar el color de los enlaces de redes sociales al pasar el ratón sobre ellos */
